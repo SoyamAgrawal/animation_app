@@ -1,10 +1,11 @@
 # animation_app
 
-A new Flutter project.
+Animation app created using flutter and used basic animations for folks to learn to get started.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app tutorial shows you how to build explicit animations in Flutter.
+In this project Some basic widget thats been used are hero,lotti,liquid slide.
 
 A few resources to get you started if this is your first Flutter project:
 
